@@ -2,3 +2,4 @@ node_modules
 .*.swp
 .env
 npm-debug.log
+/.idea/
