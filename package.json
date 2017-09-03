@@ -1,6 +1,6 @@
 {
   "name": "keystone-storage-adapter-dropbox",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "Dropbox storage adapter for keystonejs",
   "main": "index.js",
   "author": "Klepikov Maxim <kevrat14@gmail.com>",
